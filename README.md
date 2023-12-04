@@ -1,4 +1,4 @@
-# odin-landing-page
+# Description
 This project is to make a landing page that contains `manu` navbar, `header`, `content (body)`, and `footer`.
 
 In this project I made a landing page website about a funny cat memes. This project built mostly using `flexbox`.
